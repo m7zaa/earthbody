@@ -1,4 +1,4 @@
-#earthbodyLP {
+/* #earthbodyLP {
     height: 100%;
     width: 100%;
     background-position: center center;
@@ -7,9 +7,15 @@
       margin-left: auto;
       margin-right: auto;
 
+} */
+
+#earthbodyLP {
+    height: 100%;
+    width: 100%;
+    background-position: center center;
+    background-size: 100% 100%;
+  
+
 }
-
-  /* background-image: url('./img/landingPage.png') */
-
 
 body {background-color: #f84747;}
