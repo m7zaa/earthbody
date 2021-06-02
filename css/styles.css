@@ -1,0 +1,12 @@
+.earthbodyLP {
+    /* background-image: url("https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg"); */
+    /* background-position: center center; */
+    /* background-size: 100% 100%; */
+    background-size: cover;
+    height: 200%;
+}
+
+  /* background-image: url('./img/landingPage.png') */
+
+
+body {background-color: #f84747;}
